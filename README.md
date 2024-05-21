@@ -1,5 +1,5 @@
 # Mini Shell em C
-Este projeto é um shell simplificado escrito em C, que oferece funcionalidades básicas de linha de comando, incluindo execução de comandos internos como cd e path, além de simulações dos comandos Unix cat e ls com suporte a redirecionamento de saída.
+Este projeto é um shell simplificado escrito em C, que oferece funcionalidades básicas de linha de comando, incluindo execução de comandos internos como cd e path, além de simulações dos comandos Unix cat e ls com suporte a redirecionamento de saída. 
 
 ## Funcionalidades
 - Comando cd: Muda o diretório atual do shell.
